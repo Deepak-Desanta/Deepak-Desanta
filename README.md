@@ -137,8 +137,8 @@ As an aspiring engineer, I continuously expand my skills through personal projec
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=godot"/>>&nbsp;&nbsp;
-<img src="./Logo_Aseprite.svg.webp" alt="Aseprite" width="50"/>>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=godot"/>&nbsp;&nbsp;
+<img src="./Logo_Aseprite.svg.webp" alt="Aseprite" width="50"/>&nbsp;&nbsp;
 
 </p>
 
