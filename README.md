@@ -400,3 +400,193 @@ Creative editing projects produced using Adobe After Effects and DaVinci Resolve
 ✔ Consistent Improvement
 
 ---
+---
+
+# Experience
+
+## Engineering Journey
+
+| Role | Organization | Duration | Status |
+|------|--------------|----------|--------|
+| **Software & Game Developer (Self-Learning)** | Personal Projects | 2024 – Present | Active |
+| **Frontend Developer (Learning)** | Personal Portfolio | 2025 – Present | Active |
+| **UI/UX Designer** | Personal Design Projects | 2024 – Present | Active |
+
+### Software & Game Developer
+
+**Personal Projects**  
+**2024 – Present**
+
+Developing software and games through self-driven learning while continuously improving programming, problem-solving, and software engineering skills.
+
+**Scope of Work**
+
+- Building responsive web pages
+- Developing 2D games using Godot Engine
+- Learning software architecture
+- Practicing clean code principles
+- Creating UI/UX prototypes
+- Improving debugging skills
+- Version control using Git & GitHub
+
+**Skills**
+
+`HTML`
+`CSS`
+`Python`
+`C++`
+`Godot`
+`GitHub`
+`Figma`
+
+---
+
+# Leadership & Activities
+
+### Student Coordinator — Zenith '26 National Symposium
+
+Served as a **Student Coordinator** for **Zenith '26**, contributing to event planning, communication, team coordination, and execution.
+
+### Responsibilities
+
+- Coordinated with multiple student teams
+- Assisted in event management
+- Managed communication between departments
+- Helped organize technical sessions
+- Improved leadership and teamwork skills
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| 🏆 Student Coordinator | Zenith '26 National Symposium |
+| 🎨 UI/UX Competition | Build in 60 Minutes |
+| 🚀 Self-Learning Journey | Software Development |
+| 🎮 Personal Projects | Frontend & Game Development |
+
+</div>
+
+---
+
+# Certifications
+
+## Infosys Springboard
+
+![](https://img.shields.io/badge/Big_Data_101-Completed-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Big_Data_301-Completed-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Scala-Completed-7C3AED?style=for-the-badge)
+
+---
+
+## Artificial Intelligence
+
+![](https://img.shields.io/badge/Artificial_Intelligence-Certified-6D28D9?style=for-the-badge)
+
+Issued by **Infotech Company (ISO Verified)**
+
+---
+
+## Workshops
+
+![](https://img.shields.io/badge/Mindtrack-AI_in_Cybersecurity-5B21B6?style=for-the-badge)
+
+**Chennai Institute of Technology**
+
+<br>
+
+![](https://img.shields.io/badge/AR_&_VR-Development-5B21B6?style=for-the-badge)
+
+**Make Labs R&D**
+
+---
+
+## UI / UX
+
+![](https://img.shields.io/badge/UI/UX-Build_in_60_Minutes-7C3AED?style=for-the-badge)
+
+---
+
+# Professional Skills
+
+<table>
+
+<tr>
+
+<td>
+
+### Engineering
+
+- Problem Solving
+- Critical Thinking
+- Software Design
+- Debugging
+- Continuous Learning
+
+</td>
+
+<td>
+
+### Collaboration
+
+- Teamwork
+- Communication
+- Leadership
+- Adaptability
+- Time Management
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Technical Skills
+
+| Category | Technologies |
+|-----------|--------------|
+| Programming | Python, C++ |
+| Frontend | HTML, CSS |
+| Game Development | Godot, 2D Games |
+| UI/UX | Figma, Canva |
+| Video Editing | After Effects, DaVinci Resolve, CapCut |
+| Version Control | Git, GitHub |
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Coming_Soon-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Learning-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Future-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Future-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# Engineering Mindset
+
+> **"Every project is an opportunity to learn something new, improve my skills, and build software that creates meaningful experiences."**
+
+---
