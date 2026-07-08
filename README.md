@@ -142,6 +142,11 @@ As an aspiring engineer, I continuously expand my skills through personal projec
 
 </p>
 
+| Tool | Purpose |
+|------|---------|
+| Godot Engine | 2D Game Development |
+| Aseprite | Pixel Art & Sprite Animation |
+
 ---
 
 ## Design & Creative Tools
