@@ -151,6 +151,7 @@ As an aspiring engineer, I continuously expand my skills through personal projec
 <img src="./canva-icon.svg" alt="Canva" width="50"/>
 <img src="./adobe-after-effects-svgrepo-com.svg" alt="Adobe After Effects" width="55">
 <img src="./capcut-icon.svg" alt="Capcut" width="50">
+<img src="./DaVinci_Resolve_17_logo.svg.webp" alt="DaVinci Resolve" width="50">
 
 </p>
 
