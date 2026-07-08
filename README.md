@@ -201,3 +201,202 @@ Although I am currently focused on software engineering and frontend development
 - Continuous Learning
 
 ---
+---
+
+# Featured Projects
+
+<details open>
+<summary><b>🎮 2D Platformer Game (Godot)</b></summary>
+
+<br>
+
+A work-in-progress 2D platformer built with the Godot Engine. This project focuses on smooth movement, engaging gameplay mechanics, reusable level design, and clean game architecture while strengthening my game development skills.
+
+| Category | Details |
+|----------|---------|
+| **Engine** | Godot Engine |
+| **Language** | GDScript |
+| **Genre** | 2D Platformer |
+| **Status** | 🚧 In Development |
+| **Performance** | Optimized for smooth gameplay |
+| **Security** | Local project with modular architecture |
+| **Impact** | Learning game architecture, animation systems, physics, and player mechanics |
+| **Repository** | *Coming Soon* |
+
+### Highlights
+
+- Character movement & jumping
+- Collision detection
+- Sprite animation
+- TileMap level creation
+- Collectible items
+- Future enemy AI
+- Modular scene architecture
+
+**Goal**
+
+Build a polished 2D platformer while learning professional game development workflows and scalable project organization.
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 Personal Portfolio Website</b></summary>
+
+<br>
+
+A responsive personal website showcasing my projects, technical skills, and development journey while practicing modern frontend development principles.
+
+| Category | Details |
+|----------|---------|
+| **Frontend** | HTML, CSS |
+| **Backend** | Planned |
+| **Status** | 🚧 Improving |
+| **Performance** | Lightweight static website |
+| **Responsive** | Mobile Friendly |
+| **Impact** | Personal branding and frontend practice |
+| **Repository** | *Coming Soon* |
+
+### Features
+
+- Responsive layout
+- Clean UI
+- About section
+- Skills showcase
+- Contact section
+- Future project gallery
+- Dark theme
+
+**Goal**
+
+Create a professional portfolio that represents my growth as a software and game developer.
+
+</details>
+
+---
+
+<details>
+<summary><b>🏓 Pong Game</b></summary>
+
+<br>
+
+A classic two-player Pong game built using Python. Developed to strengthen programming fundamentals including game loops, collision detection, score management, and event handling.
+
+| Category | Details |
+|----------|---------|
+| **Language** | Python |
+| **Library** | Pygame |
+| **Players** | Two Player Local |
+| **Performance** | Smooth gameplay |
+| **Security** | Local application |
+| **Impact** | Strengthened game programming fundamentals |
+| **Repository** | https://github.com/Deepak-Desanta/Pong-game |
+
+### Features
+
+- Local multiplayer
+- Keyboard controls
+- Score system
+- Ball collision physics
+- Paddle movement
+- Restart functionality
+
+**What I Learned**
+
+- Object-oriented programming
+- Game loops
+- Collision detection
+- Event handling
+- Rendering techniques
+
+</details>
+
+---
+
+<details>
+<summary><b>🎨 UI/UX Design Projects</b></summary>
+
+<br>
+
+A collection of interface designs and prototypes created using Figma. These projects focus on clean layouts, usability, typography, color systems, and responsive design principles.
+
+| Category | Details |
+|----------|---------|
+| **Tool** | Figma |
+| **Type** | UI/UX Design |
+| **Status** | Active |
+| **Design Focus** | User Experience |
+| **Impact** | Improved design thinking and prototyping skills |
+| **Repository** | Private / Coming Soon |
+
+### Design Areas
+
+- Mobile UI
+- Landing Pages
+- Dashboard Design
+- Components
+- Auto Layout
+- Interactive Prototypes
+
+</details>
+
+---
+
+<details>
+<summary><b>🎬 Motion Graphics & Video Editing</b></summary>
+
+<br>
+
+Creative editing projects produced using Adobe After Effects and DaVinci Resolve, focusing on cinematic editing, motion graphics, transitions, and visual storytelling.
+
+| Category | Details |
+|----------|---------|
+| **Software** | After Effects, DaVinci Resolve |
+| **Category** | Motion Graphics |
+| **Status** | Ongoing |
+| **Specialization** | Motion Design & Editing |
+| **Impact** | Enhanced visual communication and storytelling |
+
+### Skills Applied
+
+- Motion Graphics
+- Keyframe Animation
+- Typography Animation
+- Video Editing
+- Color Correction
+- Visual Effects
+
+</details>
+
+---
+
+## Project Roadmap
+
+| Quarter | Focus |
+|----------|-------|
+| Q3 2026 | Build polished frontend projects |
+| Q4 2026 | Complete multiple Godot games |
+| Q1 2027 | Learn JavaScript deeply |
+| Q2 2027 | Build full-stack applications |
+| Future | Learn Unity & Unreal Engine |
+
+---
+
+## Development Principles
+
+✔ Clean Code
+
+✔ Reusable Components
+
+✔ Continuous Learning
+
+✔ User-Centered Design
+
+✔ Performance First
+
+✔ Creative Problem Solving
+
+✔ Consistent Improvement
+
+---
