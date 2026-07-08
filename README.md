@@ -149,7 +149,7 @@ As an aspiring engineer, I continuously expand my skills through personal projec
 
 <img src="https://skillicons.dev/icons?i=figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"width="50"/>
-<img src="https://www.svgrepo.com/svg/452141/adobe-after-effects" width="50"/>
+<img src="./assets/logos/after-effects.svg" alt="Adobe After Effects" width="48"/>
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=CapCut&logoColor=white"/>
 
 </p>
