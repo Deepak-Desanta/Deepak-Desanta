@@ -162,7 +162,7 @@ As an aspiring engineer, I continuously expand my skills through personal projec
 | Canva | Graphic Design |
 | After Effects | Motion Graphics, Visual Effects (VFX), Compositing | 
 | CapCut | Content Editing |
-| DaVinci Resolve | Video Editing |
+| DaVinci Resolve | Video Editing, Color Grading|
 
 
 ---
