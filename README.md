@@ -590,3 +590,140 @@ Issued by **Infotech Company (ISO Verified)**
 > **"Every project is an opportunity to learn something new, improve my skills, and build software that creates meaningful experiences."**
 
 ---
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Deepak-Desanta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Desanta&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Desanta&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Deepak-Desanta&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-Desanta&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Deepak-Desanta/Deepak-Desanta/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** The snake animation will appear after enabling the GitHub Action that generates it.
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Advanced HTML & CSS
+  - JavaScript
+  - Responsive Web Design
+  - Software Engineering
+  - Godot Engine
+  - Unity (Future)
+  - Unreal Engine (Future)
+
+building:
+  - Personal Portfolio Website
+  - 2D Platformer Game
+  - Frontend Projects
+  - Small Indie Games
+
+exploring:
+  - Game Architecture
+  - Clean Code Practices
+  - UI/UX Design Systems
+  - New Development Tools
+
+open_to:
+  - Software Engineering Internship
+  - Frontend Development
+  - Game Development
+  - Freelance Projects
+  - Open Source Contributions
+```
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="mailto:deepakgnanavel21@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/Deepak-Desanta">
+
+<img src="https://img.shields.io/badge/GitHub-Deepak--Desanta-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/deepak-g-787aa9330">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
+
+---
+
+# Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Deepak-Desanta&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+</p>
+
+---
+
+# Quote
+
+<p align="center">
+
+> **"Building software is not just about writing code—it's about solving problems, creating experiences, and continuously improving."**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
+
+</p>
