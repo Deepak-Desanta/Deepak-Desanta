@@ -158,10 +158,12 @@ As an aspiring engineer, I continuously expand my skills through personal projec
 
 | Tool | Purpose |
 |------|---------|
-| Adobe After Effects | Motion Graphics |
-| DaVinci Resolve | Video Editing |
-| CapCut | Content Editing |
+| Figma |  UI/UX Design Prototyping |
 | Canva | Graphic Design |
+| After Effects | Motion Graphics, Visual Effects (VFX), Compositing | 
+| CapCut | Content Editing |
+| DaVinci Resolve | Video Editing |
+
 
 ---
 
