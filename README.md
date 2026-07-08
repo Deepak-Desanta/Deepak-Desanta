@@ -148,11 +148,11 @@ As an aspiring engineer, I continuously expand my skills through personal projec
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=figma"/>>&nbsp;&nbsp;
-<img src="./canva-icon.svg" alt="Canva" width="50"/>>&nbsp;&nbsp;
-<img src="./adobe-after-effects-svgrepo-com.svg" alt="Adobe After Effects" width="55">>&nbsp;&nbsp;
-<img src="./capcut-icon.svg" alt="Capcut" width="50">>&nbsp;&nbsp;
-<img src="./DaVinci_Resolve_17_logo.svg.webp" alt="DaVinci Resolve" width="50">>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma"/>&nbsp;&nbsp;
+<img src="./canva-icon.svg" alt="Canva" width="50"/>&nbsp;&nbsp;
+<img src="./adobe-after-effects-svgrepo-com.svg" alt="Adobe After Effects" width="55">&nbsp;&nbsp;
+<img src="./capcut-icon.svg" alt="Capcut" width="50">&nbsp;&nbsp;
+<img src="./DaVinci_Resolve_17_logo.svg.webp" alt="DaVinci Resolve" width="50">&nbsp;&nbsp;
 
 </p>
 
