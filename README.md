@@ -624,7 +624,8 @@ Issued by **Infotech Company (ISO Verified)**
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepak-Desanta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![trophy](https://github-profile-trophy.vercel.app/Deepak-Desanta=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # Contribution Activity
