@@ -502,6 +502,12 @@ Served as a **Student Coordinator** for **Zenith '26**, contributing to event pl
 
 Issued by **Infotech Company (ISO Verified)**
 
+![](https://img.shields.io/badge/AI_on_AMD_GPU-Certified-ED1C24?style=for-the-badge)
+
+![](https://img.shields.io/badge/LLM_%26_RAG-Certified-ED1C24?style=for-the-badge)
+
+Issued by **AMD**
+
 ---
 
 ## Workshops
