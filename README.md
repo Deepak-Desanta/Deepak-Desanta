@@ -622,15 +622,10 @@ Issued by **Infotech Company (ISO Verified)**
 
 ---
 
-# GitHub Trophies
 
-<p align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Deepak-Desanta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Deepak-Desanta&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</p>
-
----
 
 # Contribution Activity
 
