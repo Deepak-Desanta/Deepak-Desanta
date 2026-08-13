@@ -621,9 +621,7 @@ Issued by **Infotech Company (ISO Verified)**
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak-Desanta&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Desanta&layout=compact&theme=dark&hide_border=true)
 
 # Contribution Activity
 
