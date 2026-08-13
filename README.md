@@ -623,11 +623,6 @@ Issued by **Infotech Company (ISO Verified)**
 ---
 
 
-## 🏆 GitHub Trophies
-
-
-[![trophy](https://gh-trophy.cdnsoft.net/?username=Deepak-Desanta)](https://github.com/ryo-ma/github-profile-trophy)
-
 # Contribution Activity
 
 <p align="center">
