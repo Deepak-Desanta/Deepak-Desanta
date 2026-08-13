@@ -626,7 +626,7 @@ Issued by **Infotech Company (ISO Verified)**
 ## 🏆 GitHub Trophies
 
 
- [![trophy](https://trophy.benkou.dev/?username=Deepak-Desanta)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.devomb.com/?username=Deepak-Desanta)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Contribution Activity
 
