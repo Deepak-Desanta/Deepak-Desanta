@@ -2,17 +2,19 @@
 <!--                HEADER                     -->
 <!-- ========================================= -->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Deepak&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Frontend%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
-</p>
+</p>  -->
 
-<h1 align="center">
+ ![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=Deepak-Desanta&theme=github-dark&style=aura)
+
+<!--<h1 align="center">
 Hi 👋 I'm Deepak
 </h1>
 
 <p align="center">
 <b>Software Developer • Game Developer • Frontend Enthusiast • Creative Technologist</b>
-</p>
+</p> -->
 
 <p align="center">
 
@@ -736,3 +738,4 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
 
 </p>
+
