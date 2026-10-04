@@ -1,20 +1,8 @@
 <!-- ========================================= -->
-<!--                HEADER                     -->
+<!--                 HEADER                    -->
 <!-- ========================================= -->
 
-<!--<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Deepak&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Frontend%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
-</p>  -->
-
- ![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=Deepak-Desanta&theme=github-dark&style=aura)
-
-<!--<h1 align="center">
-Hi 👋 I'm Deepak
-</h1>
-
-<p align="center">
-<b>Software Developer • Game Developer • Frontend Enthusiast • Creative Technologist</b>
-</p> -->
+  ![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=Deepak-Desanta&theme=github-dark&style=aura)
 
 <p align="center">
 
@@ -165,7 +153,7 @@ As an aspiring engineer, I continuously expand my skills through personal projec
 
 | Tool | Purpose |
 |------|---------|
-| Figma |  UI/UX Design Prototyping |
+| Figma | UI/UX Design Prototyping |
 | Canva | Graphic Design |
 | After Effects | Motion Graphics, Visual Effects (VFX), Compositing | 
 | CapCut | Content Editing |
@@ -217,45 +205,11 @@ Although I am currently focused on software engineering and frontend development
 ---
 ---
 
-# Featured Projects
+# Featured Projects & Repositories
+
+### ⭐ Personal Portfolio
 
 <details open>
-<summary><b>🎮 2D Platformer Game (Godot)</b></summary>
-
-<br>
-
-A work-in-progress 2D platformer built with the Godot Engine. This project focuses on smooth movement, engaging gameplay mechanics, reusable level design, and clean game architecture while strengthening my game development skills.
-
-| Category | Details |
-|----------|---------|
-| **Engine** | Godot Engine |
-| **Language** | GDScript |
-| **Genre** | 2D Platformer |
-| **Status** | 🚧 In Development |
-| **Performance** | Optimized for smooth gameplay |
-| **Security** | Local project with modular architecture |
-| **Impact** | Learning game architecture, animation systems, physics, and player mechanics |
-| **Repository** | *Coming Soon* |
-
-### Highlights
-
-- Character movement & jumping
-- Collision detection
-- Sprite animation
-- TileMap level creation
-- Collectible items
-- Future enemy AI
-- Modular scene architecture
-
-**Goal**
-
-Build a polished 2D platformer while learning professional game development workflows and scalable project organization.
-
-</details>
-
----
-
-<details>
 <summary><b>🌐 Personal Portfolio Website</b></summary>
 
 <br>
@@ -264,13 +218,12 @@ A responsive personal website showcasing my projects, technical skills, and deve
 
 | Category | Details |
 |----------|---------|
-| **Frontend** | HTML, CSS |
-| **Backend** | Planned |
-| **Status** | 🚧 Improving |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Status** | 🚧 Active / Improving |
 | **Performance** | Lightweight static website |
 | **Responsive** | Mobile Friendly |
 | **Impact** | Personal branding and frontend practice |
-| **Repository** | *Coming Soon* |
+| **Repository** | [Deepak-Desanta/portfolio-website](https://github.com/Deepak-Desanta/portfolio-website) |
 
 ### Features
 
@@ -279,16 +232,98 @@ A responsive personal website showcasing my projects, technical skills, and deve
 - About section
 - Skills showcase
 - Contact section
-- Future project gallery
+- Project gallery
 - Dark theme
-
-**Goal**
-
-Create a professional portfolio that represents my growth as a software and game developer.
 
 </details>
 
 ---
+
+### 🌐 Full Stack & Web Applications
+
+<details open>
+<summary><b>📝 Blog Platform</b></summary>
+
+<br>
+
+A scalable web platform designed for creating, publishing, and managing blog content.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | TypeScript, Web Technologies |
+| **Type** | Content Management / Web App |
+| **Repository** | [Deepak-Desanta/Blog-Platform](https://github.com/Deepak-Desanta/Blog-Platform) |
+
+</details>
+
+<details open>
+<summary><b>🛍️ E-commerce App</b></summary>
+
+<br>
+
+A full-stack e-commerce web application featuring user shopping workflows, modern frontend interfaces, and backend integration.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | JavaScript, HTML, CSS |
+| **Type** | Web Application |
+| **Repository** | [Deepak-Desanta/E-commerce-app](https://github.com/Deepak-Desanta/E-commerce-app) |
+
+</details>
+
+<details open>
+<summary><b>📋 Task Management Web App</b></summary>
+
+<br>
+
+A web-based productivity tool built to help users organize, track, and manage daily tasks efficiently.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | TypeScript |
+| **Type** | Web Productivity Tool |
+| **Repository** | [Deepak-Desanta/Task-Management-Web-app](https://github.com/Deepak-Desanta/Task-Management-Web-app) |
+
+</details>
+
+---
+
+### 🤖 AI & Generative Intelligence
+
+<details open>
+<summary><b>📄 ask-my-notes</b></summary>
+
+<br>
+
+A local RAG (Retrieval-Augmented Generation) application designed for querying and interacting with PDF documents using Python.
+
+| Category | Details |
+|----------|---------|
+| **Language** | Python |
+| **Domain** | Artificial Intelligence / RAG |
+| **Status** | Active |
+| **Repository** | [Deepak-Desanta/ask-my-notes](https://github.com/Deepak-Desanta/ask-my-notes) |
+
+</details>
+
+---
+
+### 🎮 2D Game Development
+
+<details open>
+<summary><b>🕹️ Pulse Game</b></summary>
+
+<br>
+
+An interactive 2D game built with the Godot Engine focusing on engaging gameplay mechanics and smooth GDScript implementation.
+
+| Category | Details |
+|----------|---------|
+| **Engine** | Godot Engine |
+| **Language** | GDScript |
+| **Repository** | [Deepak-Desanta/Pulse-Game-](https://github.com/Deepak-Desanta/Pulse-Game-) |
+
+</details>
 
 <details>
 <summary><b>🏓 Pong Game</b></summary>
@@ -305,7 +340,7 @@ A classic two-player Pong game built using Python. Developed to strengthen progr
 | **Performance** | Smooth gameplay |
 | **Security** | Local application |
 | **Impact** | Strengthened game programming fundamentals |
-| **Repository** | https://github.com/Deepak-Desanta/Pong-game |
+| **Repository** | [Deepak-Desanta/Pong-game](https://github.com/Deepak-Desanta/Pong-game) |
 
 ### Features
 
@@ -326,7 +361,47 @@ A classic two-player Pong game built using Python. Developed to strengthen progr
 
 </details>
 
+<details>
+<summary><b>🎮 2D Platformer Game (Godot)</b></summary>
+
+<br>
+
+A work-in-progress 2D platformer built with the Godot Engine. This project focuses on smooth movement, engaging gameplay mechanics, reusable level design, and clean game architecture while strengthening my game development skills.
+
+| Category | Details |
+|----------|---------|
+| **Engine** | Godot Engine |
+| **Language** | GDScript |
+| **Genre** | 2D Platformer |
+| **Status** | 🚧 In Development |
+| **Performance** | Optimized for smooth gameplay |
+| **Security** | Local project with modular architecture |
+| **Impact** | Learning game architecture, animation systems, physics, and player mechanics |
+
+</details>
+
 ---
+
+### 📂 Other & Archives
+
+<details>
+<summary><b>📦 Cybertron Archives</b></summary>
+
+<br>
+
+A collection repository for archived projects, experimental scripts, and creative resources.
+
+| Category | Details |
+|----------|---------|
+| **Type** | Archive / Repository Collection |
+| **Status** | Maintained |
+| **Repository** | [Deepak-Desanta/cybertron-archives](https://github.com/Deepak-Desanta/cybertron-archives) |
+
+</details>
+
+---
+
+### 🎨 UI/UX & Creative Work
 
 <details>
 <summary><b>🎨 UI/UX Design Projects</b></summary>
@@ -342,20 +417,8 @@ A collection of interface designs and prototypes created using Figma. These proj
 | **Status** | Active |
 | **Design Focus** | User Experience |
 | **Impact** | Improved design thinking and prototyping skills |
-| **Repository** | Private / Coming Soon |
-
-### Design Areas
-
-- Mobile UI
-- Landing Pages
-- Dashboard Design
-- Components
-- Auto Layout
-- Interactive Prototypes
 
 </details>
-
----
 
 <details>
 <summary><b>🎬 Motion Graphics & Video Editing</b></summary>
@@ -370,16 +433,6 @@ Creative editing projects produced using Adobe After Effects and DaVinci Resolve
 | **Category** | Motion Graphics |
 | **Status** | Ongoing |
 | **Specialization** | Motion Design & Editing |
-| **Impact** | Enhanced visual communication and storytelling |
-
-### Skills Applied
-
-- Motion Graphics
-- Keyframe Animation
-- Typography Animation
-- Video Editing
-- Color Correction
-- Visual Effects
 
 </details>
 
@@ -683,60 +736,3 @@ open_to:
   - Game Development
   - Freelance Projects
   - Open Source Contributions
-```
-
----
-
-# Connect With Me
-
-<p align="center">
-
-<a href="mailto:deepakgnanavel21@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/Deepak-Desanta">
-
-<img src="https://img.shields.io/badge/GitHub-Deepak--Desanta-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/deepak-g-787aa9330">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-</p>
-
----
-
-# Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Deepak-Desanta&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
-</p>
-
----
-
-# Quote
-
-<p align="center">
-
-> **"Building software is not just about writing code—it's about solving problems, creating experiences, and continuously improving."**
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
-
-</p>
-
-
